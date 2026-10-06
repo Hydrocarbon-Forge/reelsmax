@@ -1,0 +1,2 @@
+# Netscape HTTP Cookie File
+# Lane 12 fresh cookie jar

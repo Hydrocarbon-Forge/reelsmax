@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Reelsmax — Auto-Fitting Shorts Wall</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Floating Control Bar -->
+  <header id="control-bar">
+    <div class="brand">
+      <span class="logo-icon">⚡</span>
+      <span class="brand-title">REELSMAX</span>
+      <span class="mode-badge" id="mode-badge">WALL MODE</span>
+    </div>
+
+    <!-- Live RAM Governor Readout -->
+    <div class="ram-readout" id="ram-readout">
+      <span class="ram-item"><strong id="stat-lanes">0</strong> LANES</span>
+      <span class="ram-sep">·</span>
+      <span class="ram-item"><strong id="stat-total-ram">0</strong> MB TOTAL</span>
+      <span class="ram-sep">·</span>
+      <span class="ram-item"><strong id="stat-avg-ram">0</strong> MB/LANE</span>
+      <span class="ram-sep">·</span>
+      <span class="ram-item"><strong id="stat-avail-ram">0</strong> MB AVAIL</span>
+      <span class="governor-badge ok" id="gov-badge">GOVERNOR OK</span>
+    </div>
+
+    <!-- Global Controls -->
+    <div class="controls-actions">
+      <button class="btn btn-ctrl" id="btn-next" title="Next Short on All Lanes (Space)">
+        <span class="icon">⏭</span> NEXT (Space)
+      </button>
+      <button class="btn btn-ctrl" id="btn-pause" title="Pause / Resume All (P / K)">
+        <span class="icon" id="pause-icon">⏸</span> <span id="pause-text">PAUSE (P)</span>
+      </button>
+      <button class="btn btn-ctrl" id="btn-mute" title="Mute / Unmute All (M)">
+        <span class="icon" id="mute-icon">🔊</span> <span id="mute-text">MUTE (M)</span>
+      </button>
+      <button class="btn btn-add" id="btn-add" title="Add Lane (+)">+ ADD</button>
+      <button class="btn btn-rem" id="btn-rem" title="Remove Lane (-)">- REM</button>
+    </div>
+  </header>
+
+  <!-- Keyboard Shortcuts & Alert Bar -->
+  <div id="status-bar">
+    <div id="governor-alert" class="hidden">
+      ⚠️ RAM LIMIT REACHED: Soft cap of 12 lanes reached (system headroom preserved).
+    </div>
+    <div class="shortcuts-legend">
+      <span><kbd>Space</kbd> Next Unison</span>
+      <span><kbd>P</kbd>/<kbd>K</kbd> Pause/Play</span>
+      <span><kbd>M</kbd> Mute/Unmute</span>
+      <span><kbd>+</kbd> Add Lane</span>
+      <span><kbd>-</kbd> Remove Lane</span>
+    </div>
+  </div>
+
+  <!-- The Auto-fitting Zero-Scrollbar Grid Viewport -->
+  <main id="viewport">
+    <div id="grid-container"></div>
+  </main>
+
+  <script src="https://www.youtube.com/iframe_api"></script>
+  <script src="app.js"></script>
+</body>
+</html>
