@@ -8,6 +8,47 @@
 
 # Reelsmax — Auto-Fitting YouTube Shorts Wall
 
+<p align="center">
+<a href="https://github.com/Hydrocarbon-Forge/reelsmax/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/Hydrocarbon-Forge/reelsmax?style=social"></a>
+<a href="https://github.com/Hydrocarbon-Forge/reelsmax/forks"><img alt="forks" src="https://img.shields.io/github/forks/Hydrocarbon-Forge/reelsmax?style=social"></a>
+<a href="https://github.com/Hydrocarbon-Forge/reelsmax/watchers"><img alt="watchers" src="https://img.shields.io/github/watchers/Hydrocarbon-Forge/reelsmax?style=social"></a>
+<a href="https://github.com/Hydrocarbon-Forge/reelsmax/issues"><img alt="open issues" src="https://img.shields.io/github/issues/Hydrocarbon-Forge/reelsmax"></a>
+<a href="https://github.com/Hydrocarbon-Forge/reelsmax/issues?q=is%3Aclosed"><img alt="closed issues" src="https://img.shields.io/github/issues-closed/Hydrocarbon-Forge/reelsmax"></a>
+<a href="https://github.com/Hydrocarbon-Forge/reelsmax/pulls"><img alt="open pull requests" src="https://img.shields.io/github/issues-pr/Hydrocarbon-Forge/reelsmax"></a>
+<a href="https://github.com/Hydrocarbon-Forge/reelsmax/pulls?q=is%3Apr+is%3Aclosed"><img alt="closed pull requests" src="https://img.shields.io/github/issues-pr-closed/Hydrocarbon-Forge/reelsmax"></a>
+<a href="https://github.com/Hydrocarbon-Forge/reelsmax/commits"><img alt="last commit" src="https://img.shields.io/github/last-commit/Hydrocarbon-Forge/reelsmax"></a>
+</p>
+<p align="center">
+<a href="https://github.com/Hydrocarbon-Forge/reelsmax/commits"><img alt="commits per year" src="https://img.shields.io/github/commit-activity/Hydrocarbon-Forge/reelsmax/y"></a>
+<a href="https://github.com/Hydrocarbon-Forge/reelsmax/graphs/contributors"><img alt="contributors" src="https://img.shields.io/github/contributors/Hydrocarbon-Forge/reelsmax"></a>
+<a href="https://github.com/Hydrocarbon-Forge/reelsmax"><img alt="repo size" src="https://img.shields.io/github/repo-size/Hydrocarbon-Forge/reelsmax"></a>
+<a href="https://github.com/Hydrocarbon-Forge/reelsmax"><img alt="code size" src="https://img.shields.io/github/languages/code-size/Hydrocarbon-Forge/reelsmax"></a>
+<a href="https://github.com/Hydrocarbon-Forge/reelsmax"><img alt="top language" src="https://img.shields.io/github/languages/top/Hydrocarbon-Forge/reelsmax"></a>
+<a href="https://github.com/Hydrocarbon-Forge/reelsmax"><img alt="language count" src="https://img.shields.io/github/languages/count/Hydrocarbon-Forge/reelsmax"></a>
+<a href="https://github.com/Hydrocarbon-Forge/reelsmax/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/github/license/Hydrocarbon-Forge/reelsmax"></a>
+<a href="https://github.com/Hydrocarbon-Forge/reelsmax#readme"><img alt="README" src="https://img.shields.io/badge/README-present-2ea44f?logo=readme&logoColor=white"></a>
+</p>
+<p align="center">
+<a href="https://github.com/Hydrocarbon-Forge/reelsmax/search?l=python"><img alt="language: Python" src="https://img.shields.io/badge/Python-language-3776AB?logo=python&logoColor=white"></a>
+<a href="https://github.com/Hydrocarbon-Forge/reelsmax/search?l=javascript"><img alt="language: JavaScript" src="https://img.shields.io/badge/JavaScript-language-F7DF1E?logo=javascript&logoColor=white"></a>
+<a href="https://github.com/Hydrocarbon-Forge/reelsmax/search?l=css"><img alt="language: CSS" src="https://img.shields.io/badge/CSS-language-1572B6?logo=css3&logoColor=white"></a>
+<a href="https://github.com/Hydrocarbon-Forge/reelsmax/search?l=html"><img alt="language: HTML" src="https://img.shields.io/badge/HTML-language-E34F26?logo=html5&logoColor=white"></a>
+<a href="https://github.com/Hydrocarbon-Forge/reelsmax/search?l=shell"><img alt="language: Shell" src="https://img.shields.io/badge/Shell-language-4EAA25?logo=gnubash&logoColor=white"></a>
+<a href="https://github.com/Hydrocarbon-Forge/reelsmax"><img alt="contains Markdown" src="https://img.shields.io/badge/Markdown-files-000000?logo=markdown&logoColor=white"></a>
+<a href="https://github.com/Hydrocarbon-Forge/reelsmax"><img alt="contains JSON" src="https://img.shields.io/badge/JSON-files-000000?logo=json&logoColor=white"></a>
+<a href="https://github.com/Hydrocarbon-Forge/reelsmax"><img alt="contains PNG" src="https://img.shields.io/badge/PNG-files-0A7BBB"></a>
+</p>
+<p align="center">
+<a href="https://github.com/Hydrocarbon-Forge/reelsmax"><img alt="contains gitignore" src="https://img.shields.io/badge/gitignore-files-F05032?logo=git&logoColor=white"></a>
+<a href="https://github.com/Hydrocarbon-Forge/reelsmax"><img alt="contains Shell_script" src="https://img.shields.io/badge/Shell__script-files-4EAA25?logo=gnubash&logoColor=white"></a>
+<a href="https://github.com/Hydrocarbon-Forge/reelsmax"><img alt="contains HTML" src="https://img.shields.io/badge/HTML-files-E34F26?logo=html5&logoColor=white"></a>
+<a href="https://github.com/Hydrocarbon-Forge/reelsmax"><img alt="contains CSS" src="https://img.shields.io/badge/CSS-files-1572B6?logo=css3&logoColor=white"></a>
+<a href="https://github.com/Hydrocarbon-Forge/reelsmax"><img alt="contains JavaScript" src="https://img.shields.io/badge/JavaScript-files-F7DF1E?logo=javascript&logoColor=white"></a>
+<a href="https://github.com/Hydrocarbon-Forge/reelsmax"><img alt="contains Python" src="https://img.shields.io/badge/Python-files-3776AB?logo=python&logoColor=white"></a>
+<a href="https://github.com/Hydrocarbon-Forge/reelsmax"><img alt="Git" src="https://img.shields.io/badge/Git-version_control-F05032?logo=git&logoColor=white"></a>
+<a href="https://github.com/Hydrocarbon-Forge/reelsmax"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-hosted-181717?logo=github&logoColor=white"></a>
+</p>
+
 Reelsmax is a high-density, auto-fitting wall of YouTube Shorts instances designed for Hydrocarbon Forge. Each lane runs with an independent cookie jar / profile directory (enabling feed divergence), autoplays with audio out of the box, synchronizes unison advancement on Spacebar, and strictly bounds memory footprint under an intelligent RAM governor.
 
 ## Features
