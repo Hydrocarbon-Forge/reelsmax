@@ -1,3 +1,11 @@
+<p align="center"><b>An auto-fitting wall of YouTube Shorts, one independent profile per lane.</b></p>
+
+<p align="center">
+<a href="LICENSE"><img alt="license: MIT" src="https://img.shields.io/badge/license-MIT-blue"></a>
+</p>
+
+---
+
 # Reelsmax — Auto-Fitting YouTube Shorts Wall
 
 Reelsmax is a high-density, auto-fitting wall of YouTube Shorts instances designed for Hydrocarbon Forge. Each lane runs with an independent cookie jar / profile directory (enabling feed divergence), autoplays with audio out of the box, synchronizes unison advancement on Spacebar, and strictly bounds memory footprint under an intelligent RAM governor.
